@@ -2,16 +2,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>home</title>
-</head>
-<style type="text/css">
-    h1{
-        font-size: 30px;
-    }
-    p{
-        color: darkslateblue;
-    }
-</style>
+    
 <body>
 <h1>这是我的第一个网页</h1>
 <img src="http://ife.baidu.com/2016/static/img/logo_c9785ff2.png">
